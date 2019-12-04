@@ -1,4 +1,4 @@
-#iTerm2 Customization
+# iTerm2 Customization
 
 #Install Homebrew 
 Paste url in terminal if you don't have Homebrew already installed 
