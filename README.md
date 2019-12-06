@@ -50,3 +50,7 @@ Set in Solarized Dark  (iTerm → Preferences → Profiles → Text → Change C
 
 
 Restart iTerm2 for all changes to take effect.
+
+After completing the wizard and choosing the style you wantm your iTerm2 should look similar to this:
+
+![Screenshot 2019-12-06 at 12 21 52 PM](https://user-images.githubusercontent.com/49213748/70317438-6d4fed80-1826-11ea-8c98-3c652cdcb2c4.png)
