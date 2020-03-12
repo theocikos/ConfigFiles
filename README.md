@@ -54,3 +54,10 @@ Restart iTerm2 for all changes to take effect.
 After completing the wizard and choosing the style you wantm your iTerm2 should look similar to this:
 
 ![Screenshot 2019-12-06 at 12 21 52 PM](https://user-images.githubusercontent.com/49213748/70317438-6d4fed80-1826-11ea-8c98-3c652cdcb2c4.png)
+
+To enable shortcuts for navigation in iTerm2 go to:
+
+Go to iTerm Preferences → Profiles, select your profile, then the Keys tab. Find ⌥← and ⌥→ and set them to send escape sequence b and send escape sequence f respectively.
+
+Go to iTerm Preferences → Keys Find ←⌘ and ⌘→ set them to send hex code 0x01 and send hex code 0x05 respectively.Also add if it doesn't exist ⌘ + backspace to send hex code 0x15.
+
