@@ -64,3 +64,10 @@ Go to iTerm Preferences → Keys Find ←⌘ and ⌘→ set them to send hex cod
 OR:
 Go to iTerm Preferences → Profiles, select your profile, then the Keys tab. Click Load Preset... and choose Natural Text Editing.
 
+## Change font for Visual studio code:
+Open settings.json on your visual studio code and paste:
+`{
+ "terminal.integrated.fontFamily": "MesloLGS NF"
+}`
+
+
